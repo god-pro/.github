@@ -6,7 +6,7 @@
 ## Member
 |[정유진](https://github.com/hello-yujin)|[조혜린](https://github.com/jogpfls)|
 |:---:|:---:|
-|<img src="https://github.com/hello-yujin.png" width="150" height="150" >|<img src="https://github.com/jogpfls.png" width="150" height="150" >|
+|<img src="https://github.com/hello-yujin.png" width="140" height="140" >|<img src="https://github.com/jogpfls.png" width="140" height="140" >|
 | **FrontEnd Developer** | **FrontEnd Developer** |
 
 |[구본승](https://github.com/rnqhstmd)|[김성원](https://github.com/SeongWon1178)|[문인배](https://github.com/MoonInbae)|[박주희](https://github.com/juryheed)|[안우섭](https://github.com/wooseobb)|
